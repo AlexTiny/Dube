@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dube.surge.sh/sitemap.xml
